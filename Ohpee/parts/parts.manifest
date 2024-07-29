@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 2687842336
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: parts_common
+      Dependencies: {}
+    Info_1:
+      Name: midnight_edf
+      Dependencies:
+        Dependency_0: parts_common

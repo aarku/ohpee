@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 2481522465
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33d517450785423be949244ca902a177
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 979397292b7af06e22eb94a52dc17dac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 284495653, guid: b3215a61a5b041443bbc705e4f8872d0, type: 3}
+- Class: 114
+  Script: {fileID: 1227643912, guid: b3215a61a5b041443bbc705e4f8872d0, type: 3}
+- Class: 114
+  Script: {fileID: -1770063956, guid: b3215a61a5b041443bbc705e4f8872d0, type: 3}
+- Class: 114
+  Script: {fileID: 2085626431, guid: b3215a61a5b041443bbc705e4f8872d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69fbd00be8d904b3da640e502905c345, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8233d90336aea43098adf6dbabd606a2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Balsa.Core
+  ClassName: Assets.scripts.vfx.FXAudioFMod/FXParam
+- AssemblyName: Balsa.Core
+  ClassName: BalsaCore.Proxel
+- AssemblyName: Balsa.Core
+  ClassName: BalsaCore.Proxel/Surface
+- AssemblyName: Balsa.Core
+  ClassName: ProcGen.MeshSource
+- AssemblyName: FMODUnity
+  ClassName: FMOD.GUID
+- AssemblyName: FMODUnity
+  ClassName: FMODUnity.EventReference
+- AssemblyName: FloatingUtil
+  ClassName: FSCurve
+- AssemblyName: FloatingUtil
+  ClassName: Troolean
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.AutoUnwrapSettings
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.Face
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.SharedVertex
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.UnwrapParameters
+Assets:
+- Assets/__partABtoolsExport/midnight_edf.prefab
+Dependencies:
+- /parts_common.fob

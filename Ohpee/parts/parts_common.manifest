@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 3008102679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff7642708934b8de9bf15e3499ce8749
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d9598d87d9cadbab7200886c3509604d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1486000426, guid: b3215a61a5b041443bbc705e4f8872d0, type: 3}
+- Class: 114
+  Script: {fileID: 1486000426, guid: 8e1b6fe81abc9b94298c5bfcf74d2641, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.2D.SpriteShape.Runtime
+  ClassName: UnityEngine.U2D.Spline
+Assets:
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/A.asset
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/V-open.asset
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/A-solid.asset
+- Assets/KitHack HackKit/example parts/Textures/WingPaneling_Normal 1.png
+- Assets/KitHack HackKit/assets/shared/part elements/driveConnector/driveConnector.fbx
+- Assets/KitHack HackKit/example parts/Textures/scratchMap.png
+- Assets/KitHack HackKit/assets/shared/shaders/Std_TriPlanarMapped_Paintable.shader
+- Assets/KitHack HackKit/assets/shared/part elements/driveConnector/driveConnector_toPaint_Material.001_MetallicSmoothness.png
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/V.asset
+- Assets/KitHack HackKit/assets/shared/part elements/driveConnector/driveConnector_noNeck.fbx
+- Assets/KitHack HackKit/example parts/Materials/propblur_edf.mat
+- Assets/KitHack HackKit/assets/shared/part elements/driveConnector/driveConnectorMaterial.mat
+- Assets/KitHack HackKit/example parts/Materials/wing_edge_mat.mat
+- Assets/Standard Assets/Prototyping/Textures/GridBox_grey.png
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/D.asset
+- Assets/KitHack HackKit/assets/shared/shaders/Std_PlanarMapped.shader
+- Assets/KitHack HackKit/assets/shared/shaders/VertColorPBR.shader
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/N.asset
+- Assets/KitHack HackKit/assets/shared/shaders/Std_Parts_Paintable.shader
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/T.asset
+- Assets/KitHack HackKit/assets/shared/shaders/Std_TriPlanarMapped_Paintable2.shader
+- Assets/KitHack HackKit/assets/shared/shaders/Std_Parts.shader
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/Qs.asset
+- Assets/KitHack HackKit/assets/shared/shaders/Std_PlanarMapped_Paintable.shader
+- Assets/KitHack HackKit/assets/shared/shaders/Std_PaintMap.shader
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/N-solid.asset
+- Assets/KitHack HackKit/assets/shared/shaders/StencilPortal.shader
+- Assets/KitHack HackKit/assets/shared/shaders/Std_Parts_DualMaps.shader
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/r0.asset
+- Assets/KitHack HackKit/assets/shared/shaders/Std_Parts_vibrate.shader
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/J.asset
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/r1.5.asset
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/Dm.asset
+- Assets/KitHack HackKit/assets/shared/part elements/driveConnector/driveConnector_toPaint_Material.001_AlbedoTransparency.png
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/r00.asset
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/B.asset
+- Assets/KitHack HackKit/assets/shared/part elements/driveConnector/driveConnector_toPaint_Material.001_Normal.png
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/M.asset
+- Assets/KitHack HackKit/example parts/Textures/propblurheavy.png
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/Q1.asset
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/Q2.asset
+- Assets/KitHack HackKit/assets/shared/shaders/Std_TriPlanarMapped.shader
+- Assets/KitHack HackKit/assets/shared/bulkheads/profiles/r1.asset
+- Assets/KitHack HackKit/assets/shared/shaders/Std_PaintChannels.shader
+Dependencies: []
